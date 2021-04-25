@@ -1,0 +1,4 @@
+INA260.c:6:16:INA260_read	32	static
+INA260.c:15:6:INA260_write	32	static
+INA260.c:20:6:setConfig	16	static
+INA260.c:24:6:INA260_init	8	static

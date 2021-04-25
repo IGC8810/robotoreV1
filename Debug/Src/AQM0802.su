@@ -1,0 +1,7 @@
+AQM0802.c:6:6:lcd_cmd	32	static
+AQM0802.c:11:6:lcd_data	32	static
+AQM0802.c:16:6:lcd_init	8	static
+AQM0802.c:39:6:lcd_clear	8	static
+AQM0802.c:46:6:lcd_locate	16	static
+AQM0802.c:50:6:lcd_print	16	static
+AQM0802.c:58:7:lcd_printf	40	static
